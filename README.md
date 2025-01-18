@@ -12,7 +12,7 @@ You'll need to:
 ## Getting Your TikTok Data
 
 For a detailed guide with screenshots showing exactly how to download your TikTok data, please see:
-[How To Download Your TikTok Data](How_To_Download_Your_TikTok_Data.md)
+[How To Download Your TikTok Data](Create How_To_Download_Your_TikeTok_Data.md)
 
 Quick steps:
 1. Open TikTok and go to your Profile
