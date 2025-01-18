@@ -11,6 +11,10 @@ You'll need to:
 
 ## Getting Your TikTok Data
 
+For a detailed guide with screenshots showing exactly how to download your TikTok data, please see:
+[How To Download Your TikTok Data](How_To_Download_Your_TikTok_Data.md)
+
+Quick steps:
 1. Open TikTok and go to your Profile
 2. Click on the hamburger menu (three lines) in the top right
 3. Go to Settings and Privacy
@@ -19,8 +23,6 @@ You'll need to:
 6. Wait for TikTok to prepare your data (you'll receive a notification)
 7. Download your data when it's ready
 8. Unzip the downloaded file and locate the `user_data_tiktok.json` file
-
-[How_To_Download_Your_TikeTok_Data.md]
 
 ## Installing Python (Windows 11)
 
