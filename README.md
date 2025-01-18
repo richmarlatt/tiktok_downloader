@@ -20,6 +20,8 @@ You'll need to:
 7. Download your data when it's ready
 8. Unzip the downloaded file and locate the `user_data_tiktok.json` file
 
+[How_To_Download_Your_TikeTok_Data.md]
+
 ## Installing Python (Windows 11)
 
 1. Visit the official Python website: https://www.python.org/downloads/
